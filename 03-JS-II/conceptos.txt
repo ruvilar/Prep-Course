@@ -1,0 +1,12 @@
+* for -> Es una función que permite iterar un bloque de código las veces que necesitemos hasta que se cumpla la condición, de esta manera, se puede ahorrar tiempo para resolver operaciones repetitivas.
+
+- 1. Se crea una variable con un valor 
+- 2. Se crea la condición para determinar si ese valor es menor o mayor el número de veces que necesitemos iterar 
+- 3. Se incrementa o decrementa la cantidad de veces que necesitemos llegar a ese valor para cumplir la condición y terminar el bucle
+
+
+* &&, ||, !
+
+- El operador de comparación '&&' determina si ambas condiciones se cumplen, devuelve -true-, si una de ellas no se cumple, devuelve -false-
+- El operador de comparación '||' determina si una de las condiciones se cumple, devuelve -true-, si ambas no se cumplen, devuelve -false-
+- El operador de comparación 'NOT' determina lo contrario. Si una condición se cumple, lo niega y devuelve -false-, si no se cumple, lo niega y devuelve -true-
